@@ -1,0 +1,35 @@
+body {
+    font-family: 'Recursive', sans-serif;
+}
+
+.thumbnail {
+    background-color: #eee;
+    text-align: center;
+    font-family: 'Recursive', sans-serif;
+    font-size: larger;
+}
+
+body {
+    margin-top: 33px;
+}
+
+.thumbnail .caption {
+    background-color: #ddd;
+}
+
+ul,
+cite {
+    font-family: 'Recursive', sans-serif;
+    ;
+}
+
+.row {
+    font-family: 'Recursive', sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: "Recursive", sans-serif;
+}
